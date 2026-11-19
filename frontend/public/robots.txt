@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cars
+Disallow: /customers
+Sitemap: https://autosalon.example.com/sitemap.xml
